@@ -1,4 +1,7 @@
 # QSheet: Flexible and Durable Film
+
+![qsheet](https://github.com/user-attachments/assets/9a753c5a-305f-44a4-a016-e61917047e68)
+
 We present QSheet (QuasiSheet), a rapid and cost-effective technique for producing films of variable thickness using unmodified fused deposition modeling (FDM) printers.
 
 ## Requirements
