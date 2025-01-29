@@ -5,10 +5,14 @@ We present QSheet (QuasiSheet), a rapid and cost-effective technique for produci
 ## Requirements
 | Requirement | Required |
 | --- | :---: |
-| CAD software | :red_circle: |
-| G-code post-processing | :red_circle: |
+| CAD software | :yellow_circle: |
+| G-code post-processing | :green_circle: |
 | Filament compatibility | :green_circle: |
 | Post-processing | :yellow_circle: |
+
+:green_circle: Required/Supported\
+:yellow_circle: Optional\
+:red_circle: Not required/supported
 
 ## Features
 * .
