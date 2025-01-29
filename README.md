@@ -7,7 +7,8 @@ We present QSheet (QuasiSheet), a rapid and cost-effective technique for produci
 | --- | :---: |
 | CAD software | :red_circle: |
 | G-code post-processing | :red_circle: |
-| Filament support | :green_circle: |
+| Filament compatibility | :green_circle: |
+| Post-processing | :yellow_circle: |
 
 ## Features
 * .
