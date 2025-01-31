@@ -10,7 +10,7 @@ We present QSheet (QuasiSheet), a rapid and cost-effective technique for produci
 | Pre-work preparation | :red_circle: | *Extensive preparations required before work*. |
 | CAD software | :yellow_circle: | *Optional, but may be more convenient*. |
 | G-code post-processing | :red_circle: | *Knowledge in G-code reading and writing required*. |
-| Post-processing | :yellow_circle: | *Slight post-processing is required*. |
+| Post-processing | :green_circle: | *Slight post-processing is required*. |
 | Filament compatibility | :green_circle: | *Supports all traditional filaments*. |
 
 Project difficulty: ***HARD*** :feelsgood:
